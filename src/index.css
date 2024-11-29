@@ -1,0 +1,28 @@
+body {
+  font-family: "Nunito", serif !important;
+  /* background: rgb(2, 0, 36);
+  background: linear-gradient(337deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(0, 212, 255, 1) 100%) !important; */
+  background: rgb(2, 0, 36);
+  background: linear-gradient(0deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(0, 212, 255, 1) 100%) !important;
+  height: 100vh;
+  font-size: 16px !important;
+  color: white !important;
+}
+
+.App {
+  text-align: center;
+}
+
+.outerDiv {
+  display: flex;
+  justify-content: center;
+
+  .table {
+    width: 60%;
+  }
+
+}
+
+.fWeight {
+  font-weight: 700;
+}
